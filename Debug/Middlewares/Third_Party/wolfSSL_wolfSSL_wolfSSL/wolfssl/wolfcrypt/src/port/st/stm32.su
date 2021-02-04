@@ -1,0 +1,7 @@
+stm32.c:267:5:wc_Stm32_Aes_Init	24	static
+stm32.c:386:12:stm32_get_from_mp_int	40	static
+stm32.c:589:12:stm32_get_ecc_specs	24	static
+stm32.c:649:5:wc_ecc_mulmod_ex	536	static
+stm32.c:728:5:wc_ecc_mulmod_ex2	40	static
+stm32.c:737:5:stm32_ecc_verify_hash_ex	624	static
+stm32.c:809:5:stm32_ecc_sign_hash_ex	1648	static
